@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">navigation</string>
+    <string name="prenom">Nom &amp; Prénom</string>
+    <string name="Email">Email</string>
+    <string name="Phone">Phone</string>
+    <string name="Adresse">Adresse</string>
+    <string name="Ville">Ville</string>
+    <string-array name="ville">
+        <item>CASA</item>
+        <item>EL JADIDA</item>
+        <item>Marrakech</item>
+        <item>RABAT</item>
+    </string-array>
+    <string name="envoyer">Envoyer</string>
+</resources>
